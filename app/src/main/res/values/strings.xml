@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="moreinfo">Continue Reading...</string>
+    <string name="link">Link...</string>
+    <string name="newsfeed">News Feed</string>
+    <string name="app_name">NewsProject</string>
+    <string name="lorum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris feugiat pretium ipsum, sit amet laoreet sapien venenatis et. Maecenas elementum ex vehicula ligula ultrices, sed vehicula justo accumsan. Mauris orci dui, ultricies eget fringilla in, ornare vitae magna. Vivamus placerat sagittis mi, quis egestas dui interdum vitae.</string>
+</resources>
